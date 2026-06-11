@@ -2,7 +2,7 @@
 
 ## Alumna
 
-Marta
+Marta Aguirre
 
 ## Descripción
 
@@ -216,4 +216,4 @@ mongodb://localhost:27017/PRE-ENTREGA-MartaAg
 
 ## Autor
 
-Marta
+Marta Aguirre
